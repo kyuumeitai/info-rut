@@ -104,5 +104,6 @@ const getEnterpriseRut = name => {
 module.exports = {
   getFullName: getFullName,
   getPersonRut: getPersonRut,
-  getEnterpriseRut: getEnterpriseRut
+  getEnterpriseRut: getEnterpriseRut,
+  getRut: getRut,
 };
